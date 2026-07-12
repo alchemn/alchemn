@@ -82,18 +82,6 @@ Platform belajar CPNS berbasis AI — generator soal SKD, tutor adaptif, simulas
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-[![ASUS-X441U-Hackintosh-OpenCore](https://github-readme-stats.vercel.app/api/pin/?username=alchemn&repo=ASUS-X441U-Hackintosh-OpenCore&theme=tokyonight&hide_border=true)](https://github.com/alchemn/ASUS-X441U-Hackintosh-OpenCore)
-[![frontend-nutrisense](https://github-readme-stats.vercel.app/api/pin/?username=alchemn&repo=frontend-nutrisense&theme=tokyonight&hide_border=true)](https://github.com/alchemn/frontend-nutrisense)
-[![WaEnhancer](https://github-readme-stats.vercel.app/api/pin/?username=alchemn&repo=WaEnhancer&theme=tokyonight&hide_border=true)](https://github.com/alchemn/WaEnhancer)
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -125,15 +113,13 @@ Platform belajar CPNS berbasis AI — generator soal SKD, tutor adaptif, simulas
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alchemn&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy-six-roan.vercel.app/?username=alchemn&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
 
 </div>
 
 ---
 
 <div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=alchemn&icon=4&color=6)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:1e3a5f&height=120&section=footer" width="100%"/>
 
