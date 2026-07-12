@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:38B2AC&height=220&section=header&text=Ardiansyah%20Putra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Web%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:38B2AC&height=140&text=Ardiansyah%20Putra&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Junior%20Web%20Programmer%20·%20Aceh,%20Indonesia&descAlignY=68&descSize=15&descAlign=50" width="100%"/>
 
 <a href="https://github.com/alchemn">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Web+Programmer+based+in+Aceh%2C+Indonesia;Building+clean%2C+scalable+web+apps;React+%2B+Next.js+%2B+Node.js;Currently+diving+into+API+%26+MongoDB&font=Fira+Code&center=true&width=550&height=45&color=38B2AC&vCenter=true&size=20&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+scalable+web+apps;React+%2B+Next.js+%2B+Node.js;Currently+diving+into+API+%26+MongoDB&font=Fira+Code&center=true&width=550&height=40&color=38B2AC&vCenter=true&size=18&pause=1500"/>
 </a>
 
 <br/>
 
 <a href="https://ardiansyahputra.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ardiansyahputra.vercel.app-38B2AC?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/📍-Aceh,_Indonesia-1e3a5f?style=for-the-badge"/>
+<a href="https://instagram.com/ardiansyah__putra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
@@ -23,16 +23,6 @@
 - 🌱 Currently learning API integration and MongoDB
 - 💬 Ask me about JavaScript, React, or web dev tooling
 - ⚡ Fun fact: fueled by coffee and clean commits
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ardiansyah__putra)
-
-</div>
 
 ---
 
